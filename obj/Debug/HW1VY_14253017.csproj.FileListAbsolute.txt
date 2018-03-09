@@ -1,0 +1,6 @@
+c:\users\kübra\documents\visual studio 2015\Projects\HW1VY_14253017\HW1VY_14253017\bin\Debug\HW1VY_14253017.exe.config
+c:\users\kübra\documents\visual studio 2015\Projects\HW1VY_14253017\HW1VY_14253017\obj\Debug\HW1VY_14253017.csprojResolveAssemblyReference.cache
+c:\users\kübra\documents\visual studio 2015\Projects\HW1VY_14253017\HW1VY_14253017\bin\Debug\HW1VY_14253017.exe
+c:\users\kübra\documents\visual studio 2015\Projects\HW1VY_14253017\HW1VY_14253017\bin\Debug\HW1VY_14253017.pdb
+c:\users\kübra\documents\visual studio 2015\Projects\HW1VY_14253017\HW1VY_14253017\obj\Debug\HW1VY_14253017.exe
+c:\users\kübra\documents\visual studio 2015\Projects\HW1VY_14253017\HW1VY_14253017\obj\Debug\HW1VY_14253017.pdb
